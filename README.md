@@ -82,27 +82,23 @@ plt.show()
 
 # Box plot
 <img width="648" height="577" alt="Screenshot 2026-11-23 151238" src="https://github.com/user-attachments/assets/1a00b4b7-ce66-4a18-8233-df71a51a8cc5" />
-```
 
 
-```
+
 
 # Countplot
+
 <img width="707" height="567" alt="Screenshot 2026-11-23 151344" src="https://github.com/user-attachments/assets/f462462e-d97b-4a9d-adc3-1e63b795238c" />
-```
 
-
-```
 
 # Displot
+
 <img width="605" height="632" alt="Screenshot 2026-11-23 151435" src="https://github.com/user-attachments/assets/23d52ace-9084-4642-af58-2d1a6d6e827b" />
 
-
-```
-```
 # Correlation Heatmap
+
 <img width="652" height="527" alt="Screenshot 2026-11-23 151501" src="https://github.com/user-attachments/assets/8e6633e5-278e-4bf7-b3eb-2c80413e0967" />
-```
+
 # RESULT
 This project analyzes the Titanic dataset using Python, Pandas, NumPy, Seaborn, and Matplotlib.
 It performs data cleaning, handles missing values, identifies outliers, and visualizes survival patterns.
